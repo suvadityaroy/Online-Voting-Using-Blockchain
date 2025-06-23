@@ -1,4 +1,4 @@
-# Online-Voting-Using-Blockchain
+# Online-Voting-System-Using-Blockchain-Technology
 
 ---
 
